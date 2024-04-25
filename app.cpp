@@ -38,7 +38,7 @@ case 2: //case 2 is the case of difference
     cout << num1 << " - " << num2 << " = " << result;
     break;
 
-case 3:
+case 3://case 3 is the case of multiplacation 
     result = num1 * num2;
     cout << num1 << " * " << num2 << " = " << result;
     break;
