@@ -43,7 +43,7 @@ case 3://case 3 is the case of multiplacation
     cout << num1 << " * " << num2 << " = " << result;
     break;
 
-case 4:
+case 4://case 4 is the case of division
     result = num1 / num2;
     cout << num1 << " / " << num2 << " = " << result;
     break;
