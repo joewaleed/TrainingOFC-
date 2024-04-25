@@ -33,7 +33,7 @@ case 1: //case 1 is the case of sum
     cout << num1 << " + " << num2 << " = " << result;
     break;
 
-case 2:
+case 2: //case 2 is the case of difference
     result = num1 - num2;
     cout << num1 << " - " << num2 << " = " << result;
     break;
